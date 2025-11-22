@@ -2,8 +2,7 @@
 ## Hi there 👋 I'm quydev-fs (Tran Duc Quy)
 
 ## About me
-I'm Tran Duc Quy, a 15-year-old hobbyist developer who loves retro tech, especially the Windows 95 aesthetic.  
-I enjoy experimenting with low-level systems, lightweight environments, and anything that feels nostalgic but still fun to hack on.
+I'm Tran Duc Quy, a 15-year-old Vietnamese hobbyist developer with a passion for retro tech. I'm particularly drawn to the Windows 95 aesthetic and enjoy experimenting with low-level systems and lightweight environments. I love anything that feels nostalgic but remains fun to hack on.
 
 ## What I'm working on
 - Building small tools and experiments for Linux, Android, and Termux
